@@ -1,0 +1,15 @@
+C:\Users\luciana.nava\AVALIACAO1\ADIVINHACAO\bin\Debug\net8.0\ADIVINHACAO.exe
+C:\Users\luciana.nava\AVALIACAO1\ADIVINHACAO\bin\Debug\net8.0\ADIVINHACAO.deps.json
+C:\Users\luciana.nava\AVALIACAO1\ADIVINHACAO\bin\Debug\net8.0\ADIVINHACAO.runtimeconfig.json
+C:\Users\luciana.nava\AVALIACAO1\ADIVINHACAO\bin\Debug\net8.0\ADIVINHACAO.dll
+C:\Users\luciana.nava\AVALIACAO1\ADIVINHACAO\bin\Debug\net8.0\ADIVINHACAO.pdb
+C:\Users\luciana.nava\AVALIACAO1\ADIVINHACAO\obj\Debug\net8.0\ADIVINHACAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luciana.nava\AVALIACAO1\ADIVINHACAO\obj\Debug\net8.0\ADIVINHACAO.AssemblyInfoInputs.cache
+C:\Users\luciana.nava\AVALIACAO1\ADIVINHACAO\obj\Debug\net8.0\ADIVINHACAO.AssemblyInfo.cs
+C:\Users\luciana.nava\AVALIACAO1\ADIVINHACAO\obj\Debug\net8.0\ADIVINHACAO.csproj.CoreCompileInputs.cache
+C:\Users\luciana.nava\AVALIACAO1\ADIVINHACAO\obj\Debug\net8.0\ADIVINHACAO.sourcelink.json
+C:\Users\luciana.nava\AVALIACAO1\ADIVINHACAO\obj\Debug\net8.0\ADIVINHACAO.dll
+C:\Users\luciana.nava\AVALIACAO1\ADIVINHACAO\obj\Debug\net8.0\refint\ADIVINHACAO.dll
+C:\Users\luciana.nava\AVALIACAO1\ADIVINHACAO\obj\Debug\net8.0\ADIVINHACAO.pdb
+C:\Users\luciana.nava\AVALIACAO1\ADIVINHACAO\obj\Debug\net8.0\ADIVINHACAO.genruntimeconfig.cache
+C:\Users\luciana.nava\AVALIACAO1\ADIVINHACAO\obj\Debug\net8.0\ref\ADIVINHACAO.dll

@@ -1,0 +1,15 @@
+C:\Users\luciana.nava\AVALIACAO1\PALINDROMO\bin\Debug\net8.0\PALINDROMO.exe
+C:\Users\luciana.nava\AVALIACAO1\PALINDROMO\bin\Debug\net8.0\PALINDROMO.deps.json
+C:\Users\luciana.nava\AVALIACAO1\PALINDROMO\bin\Debug\net8.0\PALINDROMO.runtimeconfig.json
+C:\Users\luciana.nava\AVALIACAO1\PALINDROMO\bin\Debug\net8.0\PALINDROMO.dll
+C:\Users\luciana.nava\AVALIACAO1\PALINDROMO\bin\Debug\net8.0\PALINDROMO.pdb
+C:\Users\luciana.nava\AVALIACAO1\PALINDROMO\obj\Debug\net8.0\PALINDROMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luciana.nava\AVALIACAO1\PALINDROMO\obj\Debug\net8.0\PALINDROMO.AssemblyInfoInputs.cache
+C:\Users\luciana.nava\AVALIACAO1\PALINDROMO\obj\Debug\net8.0\PALINDROMO.AssemblyInfo.cs
+C:\Users\luciana.nava\AVALIACAO1\PALINDROMO\obj\Debug\net8.0\PALINDROMO.csproj.CoreCompileInputs.cache
+C:\Users\luciana.nava\AVALIACAO1\PALINDROMO\obj\Debug\net8.0\PALINDROMO.sourcelink.json
+C:\Users\luciana.nava\AVALIACAO1\PALINDROMO\obj\Debug\net8.0\PALINDROMO.dll
+C:\Users\luciana.nava\AVALIACAO1\PALINDROMO\obj\Debug\net8.0\refint\PALINDROMO.dll
+C:\Users\luciana.nava\AVALIACAO1\PALINDROMO\obj\Debug\net8.0\PALINDROMO.pdb
+C:\Users\luciana.nava\AVALIACAO1\PALINDROMO\obj\Debug\net8.0\PALINDROMO.genruntimeconfig.cache
+C:\Users\luciana.nava\AVALIACAO1\PALINDROMO\obj\Debug\net8.0\ref\PALINDROMO.dll
