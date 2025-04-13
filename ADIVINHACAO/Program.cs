@@ -4,13 +4,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        Random random = new Random();
-        int numeroSecreto = random.Next(1, 1001); // Número aleatório entre 1 e 1000
-        int tentativa;
+        Random random = new Random(); //gerando número aleatório
+        int numeroSecreto = random.Next(1, 1000); // Número aleatório entre 1 e 1000
+        int tentativa; // quantas tentativas para adivinhar
         Console.WriteLine("Bem-vindo ao jogo de adivinhação!");
         Console.WriteLine("Tente adivinhar o número entre 1 e 1000.");
 
-        while (true)
+        while (true) // calculo do número em looping até acertar
         {
             Console.Write("\nDigite sua tentativa: ");
             if (!int.TryParse(Console.ReadLine(), out tentativa))
@@ -21,10 +21,10 @@ class Program
 
             int diferenca = Math.Abs(numeroSecreto - tentativa);
 
-            if (tentativa == numeroSecreto)
+            if (tentativa == numeroSecreto) 
             {
                 Console.WriteLine("Parabéns! Você acertou o número!");
-                break;
+                break; // onde quebra o looping
             }
             else if (tentativa < numeroSecreto)
             {
