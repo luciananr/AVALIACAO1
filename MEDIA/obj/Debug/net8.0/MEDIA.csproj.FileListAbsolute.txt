@@ -1,0 +1,15 @@
+C:\Users\luciana.nava\AVALIACAO1\MEDIA\bin\Debug\net8.0\MEDIA.exe
+C:\Users\luciana.nava\AVALIACAO1\MEDIA\bin\Debug\net8.0\MEDIA.deps.json
+C:\Users\luciana.nava\AVALIACAO1\MEDIA\bin\Debug\net8.0\MEDIA.runtimeconfig.json
+C:\Users\luciana.nava\AVALIACAO1\MEDIA\bin\Debug\net8.0\MEDIA.dll
+C:\Users\luciana.nava\AVALIACAO1\MEDIA\bin\Debug\net8.0\MEDIA.pdb
+C:\Users\luciana.nava\AVALIACAO1\MEDIA\obj\Debug\net8.0\MEDIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luciana.nava\AVALIACAO1\MEDIA\obj\Debug\net8.0\MEDIA.AssemblyInfoInputs.cache
+C:\Users\luciana.nava\AVALIACAO1\MEDIA\obj\Debug\net8.0\MEDIA.AssemblyInfo.cs
+C:\Users\luciana.nava\AVALIACAO1\MEDIA\obj\Debug\net8.0\MEDIA.csproj.CoreCompileInputs.cache
+C:\Users\luciana.nava\AVALIACAO1\MEDIA\obj\Debug\net8.0\MEDIA.sourcelink.json
+C:\Users\luciana.nava\AVALIACAO1\MEDIA\obj\Debug\net8.0\MEDIA.dll
+C:\Users\luciana.nava\AVALIACAO1\MEDIA\obj\Debug\net8.0\refint\MEDIA.dll
+C:\Users\luciana.nava\AVALIACAO1\MEDIA\obj\Debug\net8.0\MEDIA.pdb
+C:\Users\luciana.nava\AVALIACAO1\MEDIA\obj\Debug\net8.0\MEDIA.genruntimeconfig.cache
+C:\Users\luciana.nava\AVALIACAO1\MEDIA\obj\Debug\net8.0\ref\MEDIA.dll
