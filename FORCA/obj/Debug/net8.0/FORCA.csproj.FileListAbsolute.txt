@@ -1,0 +1,15 @@
+C:\Users\luciana.nava\AVALIACAO1\FORCA\bin\Debug\net8.0\FORCA.exe
+C:\Users\luciana.nava\AVALIACAO1\FORCA\bin\Debug\net8.0\FORCA.deps.json
+C:\Users\luciana.nava\AVALIACAO1\FORCA\bin\Debug\net8.0\FORCA.runtimeconfig.json
+C:\Users\luciana.nava\AVALIACAO1\FORCA\bin\Debug\net8.0\FORCA.dll
+C:\Users\luciana.nava\AVALIACAO1\FORCA\bin\Debug\net8.0\FORCA.pdb
+C:\Users\luciana.nava\AVALIACAO1\FORCA\obj\Debug\net8.0\FORCA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luciana.nava\AVALIACAO1\FORCA\obj\Debug\net8.0\FORCA.AssemblyInfoInputs.cache
+C:\Users\luciana.nava\AVALIACAO1\FORCA\obj\Debug\net8.0\FORCA.AssemblyInfo.cs
+C:\Users\luciana.nava\AVALIACAO1\FORCA\obj\Debug\net8.0\FORCA.csproj.CoreCompileInputs.cache
+C:\Users\luciana.nava\AVALIACAO1\FORCA\obj\Debug\net8.0\FORCA.sourcelink.json
+C:\Users\luciana.nava\AVALIACAO1\FORCA\obj\Debug\net8.0\FORCA.dll
+C:\Users\luciana.nava\AVALIACAO1\FORCA\obj\Debug\net8.0\refint\FORCA.dll
+C:\Users\luciana.nava\AVALIACAO1\FORCA\obj\Debug\net8.0\FORCA.pdb
+C:\Users\luciana.nava\AVALIACAO1\FORCA\obj\Debug\net8.0\FORCA.genruntimeconfig.cache
+C:\Users\luciana.nava\AVALIACAO1\FORCA\obj\Debug\net8.0\ref\FORCA.dll
