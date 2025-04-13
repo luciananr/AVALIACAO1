@@ -1,41 +1,78 @@
-﻿using System;
+﻿using System; 
+using System.Collections.Generic; 
 
 class Program
 {
     static void Main(string[] args)
     {
-        // Lista de palavras e seleção aleatória
-        string[] palavras = { "LUCIANA", "GATO", "CACHORRO", "PROVA", "CASA" };
-        string palavraSecreta = palavras[new Random().Next(palavras.Length)];
-        char[] palavraOculta = new string('_', palavraSecreta.Length).ToCharArray();
-        int tentativas = 5;
+        List<string> nomes = new List<string>();
+        List<double> notas = new List<double>();
+        string entrada;
 
-        Console.WriteLine("Bem-vindo ao jogo da forca!");
+        Console.WriteLine("Digite os nomes e notas dos alunos. Para finalizar, digite 'sair'.");
 
-        while (tentativas > 0 && new string(palavraOculta).Contains('_'))
+        while (true)
         {
-            Console.WriteLine($"\nPalavra: {new string(palavraOculta)}");
-            Console.WriteLine($"Tentativas restantes: {tentativas}");
-            Console.Write("Digite uma letra: ");
-            char letra = char.ToUpper(Console.ReadKey().KeyChar);
-            Console.WriteLine();
+            Console.Write("Nome do aluno: ");
+            entrada = Console.ReadLine();
 
-            if (palavraSecreta.Contains(letra))
+            // Verifica se o nome é nulo ou contém apenas espaços
+            if (string.IsNullOrWhiteSpace(entrada))
             {
-                for (int i = 0; i < palavraSecreta.Length; i++)
-                    if (palavraSecreta[i] == letra)
-                        palavraOculta[i] = letra;
+                Console.WriteLine("Nome inválido. Por favor, insira um nome válido.");
+                continue;
+            }
+
+            if (entrada.ToLower() == "sair") break;
+
+            nomes.Add(entrada);
+
+            Console.Write("Nota do aluno: ");
+            if (double.TryParse(Console.ReadLine(), out double nota))
+            {
+                notas.Add(nota);
             }
             else
             {
-                tentativas--;
-                Console.WriteLine("Letra incorreta!");
+                Console.WriteLine("Nota inválida. Tente novamente.");
+                nomes.RemoveAt(nomes.Count - 1); // Remove o nome adicionado se a nota for inválida
             }
         }
 
-        if (new string(palavraOculta).Contains('_'))
-            Console.WriteLine($"\nVocê perdeu! A palavra era: {palavraSecreta}");
+        if (notas.Count == 0)
+        {
+            Console.WriteLine("Nenhuma nota foi registrada.");
+            return;
+        }
+
+        // Opção para calcular a média
+        Console.WriteLine("\nDeseja calcular a média da turma? (sim/não)");
+        string opcao = Console.ReadLine().ToLower();
+
+        if (opcao == "sim")
+        {
+            // Calcula a média da turma
+            double media = 0;
+            foreach (var nota in notas)
+            {
+                media += nota;
+            }
+            media /= notas.Count;
+
+            Console.WriteLine($"\nMédia da turma: {media:F2}");
+            Console.WriteLine("Alunos com notas acima da média:");
+
+            for (int i = 0; i < notas.Count; i++)
+            {
+                if (notas[i] > media)
+                {
+                    Console.WriteLine($"- {nomes[i]}: {notas[i]:F2}");
+                }
+            }
+        }
         else
-            Console.WriteLine($"\nParabéns! Você adivinhou a palavra: {palavraSecreta}");
-    } 
+        {
+            Console.WriteLine("Cálculo da média cancelado.");
+        }
+    }
 }
