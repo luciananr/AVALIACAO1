@@ -8,7 +8,7 @@ class Program
         string[] palavras = { "LUCIANA", "GATO", "CACHORRO", "PROVA", "CASA" };
         string palavraSecreta = palavras[new Random().Next(palavras.Length)];
         char[] palavraOculta = new string('_', palavraSecreta.Length).ToCharArray();
-        int tentativas = 6;
+        int tentativas = 5;
 
         Console.WriteLine("Bem-vindo ao jogo da forca!");
 
@@ -37,5 +37,5 @@ class Program
             Console.WriteLine($"\nVocê perdeu! A palavra era: {palavraSecreta}");
         else
             Console.WriteLine($"\nParabéns! Você adivinhou a palavra: {palavraSecreta}");
-    }
+    } 
 }
